@@ -1,6 +1,6 @@
 {
   "name": "vietnamese-number-reader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript library for transcoding number to text-based number caption in Vietnamese",
   "repository": {
     "type": "git",
